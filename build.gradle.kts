@@ -63,7 +63,7 @@ subprojects {
             repoTabooLib = "http://sacredcraft.cn:8081/repository/releases/"
         }
         version {
-            taboolib = "6.2.0-beta17"
+            taboolib = "6.2.0-beta17-dev"
             coroutines = null
         }
     }
